@@ -1,0 +1,36 @@
+# Local configuration and secrets
+.env
+*.env
+!.env.example
+
+# Python cache and local environments
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.venv/
+venv/
+
+# Runtime outputs and checkpoints
+outputs/
+**/outputs/
+runs/
+**/runs/
+*.log
+*.pkl
+*.jsonl
+
+# Local-only data and model artifacts
+WILLNOTBERELEASE/
+**/data/*session*.json
+**/data/*sessions*.json
+**/data/temp.py
+**/data/*.tmp
+model_weights/
+checkpoints/
+
+# OS/editor files
+.DS_Store
+.vscode/
+.idea/

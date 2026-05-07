@@ -1,0 +1,32 @@
+[
+  {
+    "attribute": [
+      "Spatiotemporal_Context",
+      "location(city)"
+    ]
+  },
+  {
+    "attribute": [
+      "Role_and_Identity",
+      "employment_status"
+    ]
+  },
+  {
+    "attribute": [
+      "Role_and_Identity",
+      "marital_status"
+    ]
+  },
+  {
+    "attribute": [
+      "Role_and_Identity",
+      "religious_affiliation"
+    ]
+  },
+  {
+    "attribute": [
+      "Physical_and_Mental_Health",
+      "caffeine_or_nicotine_reliance"
+    ]
+  }
+]

@@ -1,0 +1,626 @@
+[
+  {
+    "attribute": [
+      "Spatiotemporal_Context",
+      "current_time"
+    ]
+  },
+  {
+    "attribute": [
+      "Spatiotemporal_Context",
+      "location(city)"
+    ]
+  },
+  {
+    "attribute": [
+      "Spatiotemporal_Context",
+      "current_transit_status"
+    ]
+  },
+  {
+    "attribute": [
+      "Spatiotemporal_Context",
+      "location_type_home/office"
+    ]
+  },
+  {
+    "attribute": [
+      "Spatiotemporal_Context",
+      "climate_and_weather"
+    ]
+  },
+  {
+    "attribute": [
+      "Spatiotemporal_Context",
+      "ambient_noise_level"
+    ]
+  },
+  {
+    "attribute": [
+      "Spatiotemporal_Context",
+      "timezone"
+    ]
+  },
+  {
+    "attribute": [
+      "Spatiotemporal_Context",
+      "indoor_outdoor_status"
+    ]
+  },
+  {
+    "attribute": [
+      "Spatiotemporal_Context",
+      "commute_radius"
+    ]
+  },
+  {
+    "attribute": [
+      "Spatiotemporal_Context",
+      "altitude"
+    ]
+  },
+  {
+    "attribute": [
+      "Spatiotemporal_Context",
+      "light_exposure_intensity"
+    ]
+  },
+  {
+    "attribute": [
+      "Spatiotemporal_Context",
+      "planned_stay_duration"
+    ]
+  },
+  {
+    "attribute": [
+      "Spatiotemporal_Context",
+      "frequency_of_location_change"
+    ]
+  },
+  {
+    "attribute": [
+      "Role_and_Identity",
+      "education_status"
+    ]
+  },
+  {
+    "attribute": [
+      "Role_and_Identity",
+      "employment_status"
+    ]
+  },
+  {
+    "attribute": [
+      "Role_and_Identity",
+      "organizational_membership"
+    ]
+  },
+  {
+    "attribute": [
+      "Role_and_Identity",
+      "citizenship_status"
+    ]
+  },
+  {
+    "attribute": [
+      "Role_and_Identity",
+      "religious_affiliation"
+    ]
+  },
+  {
+    "attribute": [
+      "Role_and_Identity",
+      "political_leaning"
+    ]
+  },
+  {
+    "attribute": [
+      "Role_and_Identity",
+      "marital_status"
+    ]
+  },
+  {
+    "attribute": [
+      "Role_and_Identity",
+      "parental_caregiving_burden"
+    ]
+  },
+  {
+    "attribute": [
+      "Social_Network",
+      "friends"
+    ]
+  },
+  {
+    "attribute": [
+      "Social_Network",
+      "lover"
+    ]
+  },
+  {
+    "attribute": [
+      "Social_Network",
+      "family"
+    ]
+  },
+  {
+    "attribute": [
+      "Social_Network",
+      "colleagues"
+    ]
+  },
+  {
+    "attribute": [
+      "Social_Network",
+      "core_circle_size"
+    ]
+  },
+  {
+    "attribute": [
+      "Social_Network",
+      "social_frequency"
+    ]
+  },
+  {
+    "attribute": [
+      "Social_Network",
+      "online_community_activity"
+    ]
+  },
+  {
+    "attribute": [
+      "Social_Network",
+      "reputation"
+    ]
+  },
+  {
+    "attribute": [
+      "Social_Network",
+      "neighbor_relations"
+    ]
+  },
+  {
+    "attribute": [
+      "Social_Network",
+      "borrowed_items_or_favors_owed"
+    ]
+  },
+  {
+    "attribute": [
+      "Capability_and_resource",
+      "skills_and_expertise"
+    ]
+  },
+  {
+    "attribute": [
+      "Capability_and_resource",
+      "stable_income"
+    ]
+  },
+  {
+    "attribute": [
+      "Capability_and_resource",
+      "current_liquid_funds"
+    ]
+  },
+  {
+    "attribute": [
+      "Capability_and_resource",
+      "debt"
+    ]
+  },
+  {
+    "attribute": [
+      "Capability_and_resource",
+      "credit_score"
+    ]
+  },
+  {
+    "attribute": [
+      "Capability_and_resource",
+      "hardware_computing_power"
+    ]
+  },
+  {
+    "attribute": [
+      "Capability_and_resource",
+      "emergency_supplies"
+    ]
+  },
+  {
+    "attribute": [
+      "Capability_and_resource",
+      "language_proficiency"
+    ]
+  },
+  {
+    "attribute": [
+      "Routine",
+      "spare_time"
+    ]
+  },
+  {
+    "attribute": [
+      "Routine",
+      "work_hours"
+    ]
+  },
+  {
+    "attribute": [
+      "Routine",
+      "bedtime"
+    ]
+  },
+  {
+    "attribute": [
+      "Routine",
+      "meal_frequency"
+    ]
+  },
+  {
+    "attribute": [
+      "Routine",
+      "exercise_regimen"
+    ]
+  },
+  {
+    "attribute": [
+      "Routine",
+      "screen_time_allocation"
+    ]
+  },
+  {
+    "attribute": [
+      "Routine",
+      "commute_modality"
+    ]
+  },
+  {
+    "attribute": [
+      "Routine",
+      "household_chore_split"
+    ]
+  },
+  {
+    "attribute": [
+      "Routine",
+      "learning_upskilling_hours"
+    ]
+  },
+  {
+    "attribute": [
+      "Routine",
+      "meditation_mindfulness_duration"
+    ]
+  },
+  {
+    "attribute": [
+      "Routine",
+      "deep_work_windows"
+    ]
+  },
+  {
+    "attribute": [
+      "Routine",
+      "caffeine_alcohol_intake_timing"
+    ]
+  },
+  {
+    "attribute": [
+      "Routine",
+      "weekend_vs_weekday_patterns"
+    ]
+  },
+  {
+    "attribute": [
+      "Belongings_and_Possessions",
+      "car"
+    ]
+  },
+  {
+    "attribute": [
+      "Belongings_and_Possessions",
+      "pet"
+    ]
+  },
+  {
+    "attribute": [
+      "Belongings_and_Possessions",
+      "investment_portfolio"
+    ]
+  },
+  {
+    "attribute": [
+      "Belongings_and_Possessions",
+      "digital_assets"
+    ]
+  },
+  {
+    "attribute": [
+      "Belongings_and_Possessions",
+      "clothes"
+    ]
+  },
+  {
+    "attribute": [
+      "Belongings_and_Possessions",
+      "wearable_devices"
+    ]
+  },
+  {
+    "attribute": [
+      "Belongings_and_Possessions",
+      "cultural_collections"
+    ]
+  },
+  {
+    "attribute": [
+      "Belongings_and_Possessions",
+      "professional_tools"
+    ]
+  },
+  {
+    "attribute": [
+      "Belongings_and_Possessions",
+      "insurance"
+    ]
+  },
+  {
+    "attribute": [
+      "Belongings_and_Possessions",
+      "software_subscriptions"
+    ]
+  },
+  {
+    "attribute": [
+      "Preference_and_Value",
+      "career_orientation"
+    ]
+  },
+  {
+    "attribute": [
+      "Preference_and_Value",
+      "lifestyle"
+    ]
+  },
+  {
+    "attribute": [
+      "Preference_and_Value",
+      "transportation"
+    ]
+  },
+  {
+    "attribute": [
+      "Preference_and_Value",
+      "commitments"
+    ]
+  },
+  {
+    "attribute": [
+      "Preference_and_Value",
+      "hobbies"
+    ]
+  },
+  {
+    "attribute": [
+      "Preference_and_Value",
+      "media_consumption"
+    ]
+  },
+  {
+    "attribute": [
+      "Preference_and_Value",
+      "eating_and_cooking"
+    ]
+  },
+  {
+    "attribute": [
+      "Preference_and_Value",
+      "dietary_restrictions"
+    ]
+  },
+  {
+    "attribute": [
+      "Preference_and_Value",
+      "event_participation"
+    ]
+  },
+  {
+    "attribute": [
+      "Preference_and_Value",
+      "risk_tolerance"
+    ]
+  },
+  {
+    "attribute": [
+      "Preference_and_Value",
+      "moral_foundations"
+    ]
+  },
+  {
+    "attribute": [
+      "Preference_and_Value",
+      "attitude_towards_technology"
+    ]
+  },
+  {
+    "attribute": [
+      "Preference_and_Value",
+      "bias"
+    ]
+  },
+  {
+    "attribute": [
+      "Preference_and_Value",
+      "fear"
+    ]
+  },
+  {
+    "attribute": [
+      "Physical_and_Mental_Health",
+      "physical_health"
+    ]
+  },
+  {
+    "attribute": [
+      "Physical_and_Mental_Health",
+      "stress_level"
+    ]
+  },
+  {
+    "attribute": [
+      "Physical_and_Mental_Health",
+      "personality_mbti"
+    ]
+  },
+  {
+    "attribute": [
+      "Physical_and_Mental_Health",
+      "body_weight"
+    ]
+  },
+  {
+    "attribute": [
+      "Physical_and_Mental_Health",
+      "chronic_condition"
+    ]
+  },
+  {
+    "attribute": [
+      "Physical_and_Mental_Health",
+      "active_injuries_or_impairments"
+    ]
+  },
+  {
+    "attribute": [
+      "Physical_and_Mental_Health",
+      "allergen_profile"
+    ]
+  },
+  {
+    "attribute": [
+      "Physical_and_Mental_Health",
+      "vision_hearing_status"
+    ]
+  },
+  {
+    "attribute": [
+      "Physical_and_Mental_Health",
+      "hormonal_cycle_status"
+    ]
+  },
+  {
+    "attribute": [
+      "Physical_and_Mental_Health",
+      "anxiety_indicators"
+    ]
+  },
+  {
+    "attribute": [
+      "Physical_and_Mental_Health",
+      "caffeine_or_nicotine_reliance"
+    ]
+  },
+  {
+    "attribute": [
+      "Physical_and_Mental_Health",
+      "sleep_disorder_presence"
+    ]
+  },
+  {
+    "attribute": [
+      "Physical_and_Mental_Health",
+      "emotional_stability"
+    ]
+  },
+  {
+    "attribute": [
+      "Physical_and_Mental_Health",
+      "recovery_resilience_capacity"
+    ]
+  },
+  {
+    "attribute": [
+      "Physical_and_Mental_Health",
+      "confidence"
+    ]
+  },
+  {
+    "attribute": [
+      "Current_Focus",
+      "work_tasks"
+    ]
+  },
+  {
+    "attribute": [
+      "Current_Focus",
+      "active_projects"
+    ]
+  },
+  {
+    "attribute": [
+      "Current_Focus",
+      "long_term_goals"
+    ]
+  },
+  {
+    "attribute": [
+      "Current_Focus",
+      "upcoming_hard_deadlines"
+    ]
+  },
+  {
+    "attribute": [
+      "Current_Focus",
+      "current_learning_topic"
+    ]
+  },
+  {
+    "attribute": [
+      "Current_Focus",
+      "current_reading_list"
+    ]
+  },
+  {
+    "attribute": [
+      "Current_Focus",
+      "financial_targets"
+    ]
+  },
+  {
+    "attribute": [
+      "Current_Focus",
+      "current_frustrations"
+    ]
+  },
+  {
+    "attribute": [
+      "Digital_Footprint",
+      "code_contributions_github"
+    ]
+  },
+  {
+    "attribute": [
+      "Digital_Footprint",
+      "digital_privacy_habits"
+    ]
+  },
+  {
+    "attribute": [
+      "Digital_Footprint",
+      "app_usage_diversity"
+    ]
+  },
+  {
+    "attribute": [
+      "Digital_Footprint",
+      "tech_ecosystem_reliance"
+    ]
+  },
+  {
+    "attribute": [
+      "Digital_Footprint",
+      "cloud_backup_status"
+    ]
+  }
+]

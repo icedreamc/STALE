@@ -1,0 +1,4 @@
+openai
+tqdm
+tiktoken
+python-dotenv
