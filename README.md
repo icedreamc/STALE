@@ -1,6 +1,11 @@
+[![arXiv](https://img.shields.io/badge/arXiv-2605.06527-b31b1b.svg)](https://arxiv.org/abs/2605.06527)
+
 # STALE and CUP-Mem
 
-This repository contains two related components:
+This repository contains the code and resources for our paper:
+
+**STALE: Can LLM Agents Know When Their Memories Are No Longer Valid?**  
+[arXiv:2605.06527](https://arxiv.org/abs/2605.06527)
 
 - `STALE/`: dataset generation and evaluation scripts for the STALE benchmark.
 - `cup_mem/`: the CUP-Mem memory pipeline for session-by-session profile updates and conflict-aware query answering.
